@@ -133,8 +133,8 @@ By leveraging these insights, telecom companies can reduce churn, increase custo
 **Vaishnavi Mahadev Chougule**  
 Power BI Developer | Data Analytics Enthusiast  
 
-📧 Email: vaishnu.chougule103@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-chougule-3b7206323/  
-💻 GitHub:https://github.com/vaishnavi-chougule/Telecom-Customer-Churn-Analysis  
+📧 Email: vaishnu.chougule103@gmail.com   
+🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-chougule-3b7206323/    
+💻 GitHub:https://github.com/vaishnavi-chougule/Telecom-Customer-Churn-Analysis   
 
  
